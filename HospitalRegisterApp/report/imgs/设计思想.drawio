@@ -1,0 +1,133 @@
+<mxfile host="Electron" modified="2024-01-10T03:53:45.207Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="3yp0-8k_cmGk3HvyhgoT" version="22.1.2" type="device">
+  <diagram name="第 1 页" id="oBB3p8zH_U1W6c74gE0D">
+    <mxGraphModel dx="1823" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9lVelVRK41Ti5xzRwSH0-1" value="前端APP应用" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#00FFFF;" parent="1" vertex="1">
+          <mxGeometry x="414" y="200" width="460" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="9lVelVRK41Ti5xzRwSH0-2" value="UI" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#00CCCC;" parent="1" vertex="1">
+          <mxGeometry x="424" y="240" width="430" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="9lVelVRK41Ti5xzRwSH0-3" value="登录界面" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="469" y="270" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9lVelVRK41Ti5xzRwSH0-4" value="预约界面" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="559" y="270" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9lVelVRK41Ti5xzRwSH0-5" value="支付界面" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="648" y="270" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9lVelVRK41Ti5xzRwSH0-6" value="信息界面" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="739" y="270" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9lVelVRK41Ti5xzRwSH0-7" value="Bean" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#00CCCC;" parent="1" vertex="1">
+          <mxGeometry x="424" y="350" width="430" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="9lVelVRK41Ti5xzRwSH0-8" value="Utils" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#00CCCC;" parent="1" vertex="1">
+          <mxGeometry x="424" y="460" width="430" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="9lVelVRK41Ti5xzRwSH0-9" value="Android通信" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="579" y="550" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9lVelVRK41Ti5xzRwSH0-11" value="Depart" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="444" y="390" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9lVelVRK41Ti5xzRwSH0-12" value="Doctor" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="524" y="390" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9lVelVRK41Ti5xzRwSH0-13" value="Order" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="604" y="390" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9lVelVRK41Ti5xzRwSH0-14" value="Schedule" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="684" y="390" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9lVelVRK41Ti5xzRwSH0-15" value="User" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="764" y="390" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9lVelVRK41Ti5xzRwSH0-16" value="Netutil" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="604" y="490" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9lVelVRK41Ti5xzRwSH0-17" value="后台服务器" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#FF8000;" parent="1" vertex="1">
+          <mxGeometry x="414" y="590" width="460" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="9lVelVRK41Ti5xzRwSH0-18" value="Servlet" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#CC6600;" parent="1" vertex="1">
+          <mxGeometry x="424" y="630" width="430" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9lVelVRK41Ti5xzRwSH0-19" value="预约&lt;br&gt;Servlet" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="559" y="670" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9lVelVRK41Ti5xzRwSH0-20" value="登录&lt;br&gt;Servlet" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="469" y="670" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9lVelVRK41Ti5xzRwSH0-21" value="支付&lt;br&gt;Servlet" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="648" y="670" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9lVelVRK41Ti5xzRwSH0-22" value="信息&lt;br&gt;Servlet" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="739" y="670" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9lVelVRK41Ti5xzRwSH0-23" value="Bean" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#CC6600;" parent="1" vertex="1">
+          <mxGeometry x="424" y="870" width="430" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="9lVelVRK41Ti5xzRwSH0-24" value="Depart" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="444" y="910" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9lVelVRK41Ti5xzRwSH0-25" value="Doctor" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="524" y="910" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9lVelVRK41Ti5xzRwSH0-26" value="Order" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="604" y="910" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9lVelVRK41Ti5xzRwSH0-27" value="Schedule" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="684" y="910" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9lVelVRK41Ti5xzRwSH0-28" value="User" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="764" y="910" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9lVelVRK41Ti5xzRwSH0-29" value="DAO" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#CC6600;" parent="1" vertex="1">
+          <mxGeometry x="424" y="750" width="430" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="9lVelVRK41Ti5xzRwSH0-31" value="Depart&lt;br&gt;DAO" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="444" y="790" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9lVelVRK41Ti5xzRwSH0-32" value="Doctor&lt;br&gt;DAO" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="524" y="790" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9lVelVRK41Ti5xzRwSH0-33" value="Order&lt;br&gt;DAO" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="604" y="790" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9lVelVRK41Ti5xzRwSH0-34" value="Schedule&lt;br&gt;DAO" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="684" y="790" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9lVelVRK41Ti5xzRwSH0-35" value="User&lt;br&gt;DAO" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="764" y="790" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="n7ocbazxAum2m-DAIkY9-2" value="后台管理系统" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#00FFFF;" vertex="1" parent="1">
+          <mxGeometry x="874" y="590" width="460" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="n7ocbazxAum2m-DAIkY9-3" value="JSP" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#00CCCC;" vertex="1" parent="1">
+          <mxGeometry x="900" y="635" width="400" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="n7ocbazxAum2m-DAIkY9-4" value="登录界面" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="980" y="712.25" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="n7ocbazxAum2m-DAIkY9-6" value="控制台界面" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="712.75" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="n7ocbazxAum2m-DAIkY9-8" value="子页面" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fillColor=#00CCCC;" vertex="1" parent="1">
+          <mxGeometry x="900" y="865" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="n7ocbazxAum2m-DAIkY9-9" value="预约管理" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="965" y="910" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="n7ocbazxAum2m-DAIkY9-10" value="医生管理" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1065" y="910" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="n7ocbazxAum2m-DAIkY9-11" value="排班管理" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1165" y="910" width="70" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
